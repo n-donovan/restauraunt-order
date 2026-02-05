@@ -1,7 +1,3 @@
-//Chapter 8, Order Entry Problem
-//Filename: Order.java
-//Programmer: Donovan Neal
-//Date: 2/19/2025
 public class Order 
 {
    private OrderType orderType; 
@@ -89,3 +85,4 @@ public class Order
          return total; 
       }
    }
+
