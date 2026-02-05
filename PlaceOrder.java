@@ -1,7 +1,3 @@
-//Chapter 8, Order Entry Problem
-//Filename: PlaceOrder.java
-//Programmer: Donovan Neal
-//Date: 2/19/2025
 import java.util.*; 
 public class PlaceOrder 
 {
@@ -102,3 +98,4 @@ public class PlaceOrder
       }
 
    }
+
